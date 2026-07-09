@@ -22,7 +22,7 @@ spec:
 
       containers:
       - name: backend
-        image: harishkorapati/ecommerce-backend:v2
+        image: harishkorapati/ecommerce-backend:v3
         imagePullPolicy: Always
 
         ports:
